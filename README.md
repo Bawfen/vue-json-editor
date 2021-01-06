@@ -1,6 +1,8 @@
 # vue-json-editor
 
 A json editor of vue.js
+Fork of dirkliu/vue-json-editor
+
 
 ## Component properties
 
